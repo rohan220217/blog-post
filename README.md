@@ -1,6 +1,6 @@
 # Demo app for Internship
 
-Demo Link: 
+Demo Link: https://main--dashing-beijinho-6e37e7.netlify.app/ <br/>
 Surge Link: demo-internship-blog-app.sh
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
