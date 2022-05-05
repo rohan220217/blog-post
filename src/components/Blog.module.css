@@ -1,0 +1,16 @@
+.blog-card {
+  background: rgb(235, 240, 181);
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+  margin: 0 2rem;
+}
+
+.blog-card:hover {
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.image {
+  width: 100%;
+  height: 300px;
+}
