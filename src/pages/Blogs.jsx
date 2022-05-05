@@ -1,7 +1,6 @@
 import { useNavigate } from "react-router-dom";
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import Blog from "../components/Blog";
-import BlogProvider from "../store/blogProvider";
 import classes from "./Blogs.module.css";
 import BlogContext from "../store/blog-context";
 

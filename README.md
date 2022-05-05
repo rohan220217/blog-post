@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Demo app for Internship
+
+Demo Link: 
+Surge Link: demo-internship-blog-app.sh
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

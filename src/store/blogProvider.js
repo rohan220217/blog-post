@@ -1,5 +1,4 @@
 import { useReducer } from "react";
-import { act } from "react-dom/test-utils";
 import BlogContext from "./blog-context";
 
 const DUMMY_DATA = [
